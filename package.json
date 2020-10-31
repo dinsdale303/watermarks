@@ -1,0 +1,14 @@
+{
+  "name": "watermarks",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "repository": "none",
+  "author": "Piotr S.",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
